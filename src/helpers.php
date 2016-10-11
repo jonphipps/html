@@ -1,4 +1,4 @@
-<?php
+<?php namespace Collective\Html;
 
 if (! function_exists('link_to')) {
     /**
